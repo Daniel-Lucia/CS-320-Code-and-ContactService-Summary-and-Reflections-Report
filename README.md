@@ -1,3 +1,3 @@
-# CS 320 Code and ContactService-summary-and-reflections-report
+# CS 320 Code and ContactService Summary and Reflections Report
 
 This repo contains code and a report from my time in the Software Testing, Automation, and Quality Assurance course. This course focused on developing high-quality software through rigorous testing strategies, including JUnit unit testing, static/dynamic analysis, and validation. I learned to apply these methods within an agile framework to ensure software functionality and security. The code in this repo validates contact objects (unique ID, name, phone, address) and supports adding, updating, and deleting contacts, verified through JUnit tests rather than a UI or database. 
